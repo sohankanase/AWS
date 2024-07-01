@@ -3,13 +3,13 @@
 
 Table of Contents
 
-1.*Introduction*
+1. *Introduction*
 
-2.*EC2 (Elastic Compute Cloud)*
+2. *EC2 (Elastic Compute Cloud)*
 
-VPC (Virtual Private Cloud)
+3. VPC (Virtual Private Cloud)
 
-IAM (Identity and Access Management)
+4. IAM (Identity and Access Management)
 
 Autoscaling
 
