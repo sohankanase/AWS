@@ -1,4 +1,6 @@
-**AWS Notes**  -m
+**AWS Notes**  
+
+
 Table of Contents
 Introduction
 EC2 (Elastic Compute Cloud)
