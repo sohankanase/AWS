@@ -3,9 +3,9 @@
 
 Table of Contents
 
-*Introduction*
+1.*Introduction*
 
-*EC2 (Elastic Compute Cloud)*
+2.*EC2 (Elastic Compute Cloud)*
 
 VPC (Virtual Private Cloud)
 
