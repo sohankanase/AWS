@@ -1,4 +1,4 @@
-**AWS Notes**  /n
+**AWS Notes**  -m
 Table of Contents
 Introduction
 EC2 (Elastic Compute Cloud)
