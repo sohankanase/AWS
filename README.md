@@ -10,8 +10,7 @@ Table of Contents
 3. VPC (Virtual Private Cloud)
 
 4. IAM (Identity and Access Management)
-
-Autoscaling
+5. Autoscaling
 
 S3 (Simple Storage Service)
 
