@@ -19,5 +19,3 @@ Table of Contents
 15. *Lambda*
 
 These notes provide a general overview and best practices for working with various AWS services. For detailed documentation and the latest updates, refer to the [AWS official documentation](https://docs.aws.amazon.com/).
-
-Sohan kanse
